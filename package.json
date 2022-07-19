@@ -1,0 +1,15 @@
+{
+  "name": "jackson-dynamo-db-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewmelnyk/jackson-dynamo-db-serverless.git",
+  "author": "andrewmelnyk <melnyk.andrew@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.18.0",
+    "@aws-sdk/util-dynamodb": "^3.18.0"
+  },
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.2.0"
+  }
+}
