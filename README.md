@@ -1,0 +1,1 @@
+# jackson-dynamo-db-serverless
